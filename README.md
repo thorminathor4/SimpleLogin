@@ -1,12 +1,12 @@
 # SimpleLogin
 Add mysql-connector jar-file as external library beforehand
 
-Make database beforehand
+Make database beforehand<br>
 CREATE SCHEMA simplelogin;
 
 Remember to write username and password in the DBConnection class!!!
 
-Make a users table beforehand
+Make a users table beforehand<br>
 CREATE TABLE users (
     id int primary key auto_increment,
     username VARCHAR(50),

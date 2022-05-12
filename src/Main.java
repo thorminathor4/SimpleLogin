@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Main {
 
+    //Add mysql-connector jar-file as external library beforehand
+
     //Make database beforehand
     //CREATE SCHEMA simplelogin;
 

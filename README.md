@@ -8,9 +8,9 @@ Remember to write username and password in the DBConnection class!!!
 
 Make a users table beforehand: <br>
 CREATE TABLE users ( <br>
-<nbsp><nbsp><nbsp> id int primary key auto_increment, <br>
-<nbsp><nbsp><nbsp> username VARCHAR(50), <br>
-<nbsp><nbsp><nbsp> password VARCHAR(50) <br>
+&nbsp;&nbsp;&nbsp; id INT PRIMARY KEY AUTO_INCREMENT, <br>
+&nbsp;&nbsp;&nbsp; username VARCHAR(50), <br>
+&nbsp;&nbsp;&nbsp; password VARCHAR(50) <br>
 );
 
 Make users beforehand: <br>

@@ -12,7 +12,7 @@ public class Main {
     //Make a users table beforehand
     /*
     CREATE TABLE users (
-        id int primary key auto_increment,
+        id INT PRIMARY KEY AUTO_INCREMENT,
         username VARCHAR(50),
         password VARCHAR(50)
     );
